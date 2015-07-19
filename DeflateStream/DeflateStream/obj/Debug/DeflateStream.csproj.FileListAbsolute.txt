@@ -1,0 +1,6 @@
+C:\github\Xbox\DeflateStream\DeflateStream\bin\Debug\DeflateStream.exe.config
+C:\github\Xbox\DeflateStream\DeflateStream\bin\Debug\DeflateStream.exe
+C:\github\Xbox\DeflateStream\DeflateStream\bin\Debug\DeflateStream.pdb
+C:\github\Xbox\DeflateStream\DeflateStream\obj\Debug\DeflateStream.csprojResolveAssemblyReference.cache
+C:\github\Xbox\DeflateStream\DeflateStream\obj\Debug\DeflateStream.exe
+C:\github\Xbox\DeflateStream\DeflateStream\obj\Debug\DeflateStream.pdb
